@@ -20,11 +20,11 @@ const Portfolio = () => {
                     <div className="portfolio__item-img">
                         <img src={portfolio1} alt="pf" />
                     </div>
-                    <h3>This is portfolio item title</h3>
+                    <h3>JS/CSS Avto Tuning Landing Page</h3>
                     <div className="portfolio__item-cta">
                         <a
                             rel="noreferrer"
-                            href="https://github.com"
+                            href="https://github.com/XushbaxtovNodirbek/avtotuning"
                             className="btn"
                             target="_blank"
                         >
@@ -33,7 +33,7 @@ const Portfolio = () => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://dribbble.com/nodibx"
+                            href="https://tuning009.netlify.app/"
                             className="btn btn-primary"
                         >
                             Live Demo
@@ -44,11 +44,11 @@ const Portfolio = () => {
                     <div className="portfolio__item-img">
                         <img src={portfolio2} alt="pf" />
                     </div>
-                    <h3>This is portfolio item title</h3>
+                    <h3>Bootstrap 5 Creative portfolio website</h3>
                     <div className="portfolio__item-cta">
                         <a
                             rel="noreferrer"
-                            href="https://github.com"
+                            href="https://github.com/XushbaxtovNodirbek/bootstrap-web-page"
                             className="btn"
                             target="_blank"
                         >
@@ -57,7 +57,7 @@ const Portfolio = () => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://dribbble.com/nodibx"
+                            href="https://bootstrap-web-page.netlify.app/"
                             className="btn btn-primary"
                         >
                             Live Demo
@@ -68,11 +68,11 @@ const Portfolio = () => {
                     <div className="portfolio__item-img">
                         <img src={portfolio3} alt="pf" />
                     </div>
-                    <h3>This is portfolio item title</h3>
+                    <h3>Animated portfolio website</h3>
                     <div className="portfolio__item-cta">
                         <a
                             rel="noreferrer"
-                            href="https://github.com"
+                            href="https://github.com/XushbaxtovNodirbek/sammi.portfolio"
                             className="btn"
                             target="_blank"
                         >
@@ -81,7 +81,7 @@ const Portfolio = () => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://dribbble.com/nodibx"
+                            href="https://legendary-eclair-aad51a.netlify.app/"
                             className="btn btn-primary"
                         >
                             Live Demo
@@ -92,11 +92,11 @@ const Portfolio = () => {
                     <div className="portfolio__item-img">
                         <img src={portfolio4} alt="pf" />
                     </div>
-                    <h3>This is portfolio item title</h3>
+                    <h3>ReactJs responsive portfolio website</h3>
                     <div className="portfolio__item-cta">
                         <a
                             rel="noreferrer"
-                            href="https://github.com"
+                            href="https://github.com/XushbaxtovNodirbek/react-portfolio"
                             className="btn"
                             target="_blank"
                         >
@@ -105,7 +105,7 @@ const Portfolio = () => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://dribbble.com/nodibx"
+                            href="https://nodirbekdev.tech/"
                             className="btn btn-primary"
                         >
                             Live Demo
@@ -128,7 +128,7 @@ const Portfolio = () => {
                         </a>
                         <a
                             rel="noreferrer"
-                            target="_blank" 
+                            target="_blank"
                             href="https://dribbble.com/nodibx"
                             className="btn btn-primary"
                         >
@@ -160,8 +160,6 @@ const Portfolio = () => {
                         </a>
                     </div>
                 </article>
-
-
             </div>
         </section>
     );

@@ -43,6 +43,9 @@ header {
     margin-top: 4rem;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
+.me img {
+    transform: translateY(1rem) translateX(-0.6rem) scale(1.35);
+}
 /* ========= Scroll Down ========= */
 .scroll__down {
     position: absolute;
