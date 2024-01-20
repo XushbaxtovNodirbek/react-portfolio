@@ -92,7 +92,7 @@ const Portfolio = () => {
                     <div className="portfolio__item-img">
                         <img src={portfolio4} alt="pf" />
                     </div>
-                    <h3>ReactJs responsive portfolio website</h3>
+                    <h3>ReactJs portfolio website</h3>
                     <div className="portfolio__item-cta">
                         <a
                             rel="noreferrer"
