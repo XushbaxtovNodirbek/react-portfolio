@@ -116,11 +116,11 @@ const Portfolio = () => {
                     <div className="portfolio__item-img">
                         <img src={portfolio5} alt="pf" />
                     </div>
-                    <h3>This is portfolio item title</h3>
+                    <h3>Auth app with JWT,React,Redux-Toolkit login and register pages</h3>
                     <div className="portfolio__item-cta">
                         <a
                             rel="noreferrer"
-                            href="https://github.com"
+                            href="https://github.com/XushbaxtovNodirbek/redux-toolkit/tree/main"
                             className="btn"
                             target="_blank"
                         >
@@ -129,7 +129,7 @@ const Portfolio = () => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://dribbble.com/nodibx"
+                            href="https://github.com/XushbaxtovNodirbek"
                             className="btn btn-primary"
                         >
                             Live Demo
